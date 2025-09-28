@@ -1,7 +1,7 @@
 """
 README para Volante Virtual
 
-By:  Guilherme Almeida
+By:  Guilherme Almeida e
      Carlos Eduardo
 
 Visão Geral:
