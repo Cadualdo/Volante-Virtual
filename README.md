@@ -1,6 +1,9 @@
 """
 README para Volante Virtual
 
+By:  Guilherme Almeida
+     Carlos Eduardo
+
 Visão Geral:
 ------------
 VirtualCarController é um programa em Python que permite aos usuários controlar um carro virtual usando gestos de mão. Este software utiliza técnicas de visão computacional e emulação de gamepad para traduzir movimentos de mão em comandos de controle do carro.
