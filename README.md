@@ -1,5 +1,5 @@
 """
-README para VirtualCarController
+README para Volante Virtual
 
 Visão Geral:
 ------------
